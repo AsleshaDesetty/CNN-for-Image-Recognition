@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 """CNN for image recognition..ipynb
 
 
