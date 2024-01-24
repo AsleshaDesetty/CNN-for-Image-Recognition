@@ -6,3 +6,5 @@ Following this, the model undergoes recompilation and is trained on the complete
 
 In conclusion, the code provides a comprehensive and sequential example of the entire process involved in working with CNNs for image classification tasks, covering data preprocessing, model construction, compilation, training, evaluation, and architectural exploration.
 
+Reference: https://arxiv.org/pdf/1502.03167.pdf
+
